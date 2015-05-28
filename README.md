@@ -3,6 +3,7 @@ Just for fun simple solution of sudoku solver based on genetic algorithm
 
 Example #1
 input.txt
+'''
 . 6 . | 4 . . | . . .
 . . . | . . . | 9 . .
 . . . | . . . | 3 4 8
@@ -56,4 +57,4 @@ error =  0
 3 7 2 | 6 8 9 | 5 1 4
 8 1 4 | 2 5 3 | 7 6 9
 6 9 5 | 4 1 7 | 3 8 2
-"""
+'''
