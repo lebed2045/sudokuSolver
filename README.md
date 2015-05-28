@@ -1,9 +1,8 @@
 # sudokuSolver
 Just for fun simple solution of sudoku solver based on genetic algorithm
-
+```
 Example #1
 input.txt
-```
 . 6 . | 4 . . | . . .
 . . . | . . . | 9 . .
 . . . | . . . | 3 4 8
